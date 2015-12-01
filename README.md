@@ -1,5 +1,5 @@
 # daemonblock
-OSX utility that automatically checks and unloads daemons and agents
+OSX utility that automatically unloads daemons and agents
 
 ## Install
 - Extract daemonblock to a custom directory
