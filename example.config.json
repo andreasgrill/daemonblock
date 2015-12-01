@@ -1,0 +1,11 @@
+{
+    "daemon_blacklist":[
+        "/Library/LaunchDaemons/com.teamviewer.Helper.plist",
+        "/Library/LaunchDaemons/com.teamviewer.teamviewer_service.plist",
+        "/Library/LaunchDaemons/com.microsoft.office.licensing.helper.plist",
+        "/Library/LaunchAgents/com.teamviewer.teamviewer.plist",
+        "/Library/LaunchAgents/com.teamviewer.teamviewer_desktop.plist",
+        "/Library/LaunchAgents/com.gog.galaxy.commservice.plist",
+        "/Users/YOUR_USERNAME/Library/LaunchAgents/com.google.keystone.agent.plist"
+    ]
+}
