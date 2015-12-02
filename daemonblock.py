@@ -56,7 +56,7 @@ def install(config):
         <key>RunAtLoad</key>
         <true/>
     </dict>
-    </plist>'''.format(path=__file__)
+    </plist>'''.format(path=os.path.realpath(__file__))
 
     with open(launchplist_path, 'w') as myfile:
         myfile.write(launchplist_script)
